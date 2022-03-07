@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 JOSE PECH BALAM
-=======
->>>>>>> 0af85a22df59d1c9fac66730ec6723e467832545
 Raul Ku Sanchez
 Manuel Sierra Nuñez
 Laureano Rodriguez Poot
